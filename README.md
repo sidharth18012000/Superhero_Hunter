@@ -31,4 +31,4 @@
 ![more-info-page-light](./images/more-info-l.t.png)
 
 ## More Info (Dark Theme)
-![more-info-page-dark](https://user-images.githubusercontent.com/66960784/203383629-fff285f9-9aa4-4e70-840c-da961e0b59e2.png)
+![more-info-page-dark](./images/more-info-d.t.png)
