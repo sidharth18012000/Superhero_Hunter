@@ -10,7 +10,7 @@
 ![home-page-dark](./images/homepage-dark.png)
 
 ## Empty favourites page (Light Theme)
-![Empty-favourites-page-light](https://user-images.githubusercontent.com/66960784/203382730-c6c4e5f6-33cf-4013-b52b-e8c3d8c1ae43.png)
+![Empty-favourites-page-light](./images/empty-fav-pg-l.t.png)
 
 ## Empty favourites page (Light Theme)
 ![Empty-favourites-page-dark](https://user-images.githubusercontent.com/66960784/203382741-ca8d8c49-d32b-4c0e-8d79-308ee15d5b97.png)
