@@ -13,7 +13,7 @@
 ![Empty-favourites-page-light](./images/empty-fav-pg-l.t.png)
 
 ## Empty favourites page (Light Theme)
-![Empty-favourites-page-dark](https://user-images.githubusercontent.com/66960784/203382741-ca8d8c49-d32b-4c0e-8d79-308ee15d5b97.png)
+![Empty-favourites-page-dark](./images/empty-fav-pg-d.t.png)
 
 ## Home Page with searched items (Light Theme)
 ![Home-page-with-searched-items-light](https://user-images.githubusercontent.com/66960784/203382400-493f96f8-00af-4588-a7fa-a6759bdfb5d3.png)
