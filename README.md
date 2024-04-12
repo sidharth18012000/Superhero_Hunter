@@ -7,7 +7,7 @@
 ![home-page-light](./images/homepage-light.png)
 
 ## Home Page (Dark Theme)
-![home-page-dark](./images/homepage-dark.png.png)
+![home-page-dark](./images/homepage-dark.png)
 
 ## Empty favourites page (Light Theme)
 ![Empty-favourites-page-light](https://user-images.githubusercontent.com/66960784/203382730-c6c4e5f6-33cf-4013-b52b-e8c3d8c1ae43.png)
