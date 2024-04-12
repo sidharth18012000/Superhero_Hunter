@@ -19,7 +19,7 @@
 ![Home-page-with-searched-items-light](./images/homepage-searcheditems-l.t.png)
 
 ## Home Page with searched items (Dark Theme)
-![Home-page-with-searched-items-dark](https://user-images.githubusercontent.com/66960784/203382426-1e51fbb6-9787-4732-b208-049006312fb9.png)
+![Home-page-with-searched-items-dark](./images/homepage-searcheditems-d.t.png)
 
 ## Favourites page with favourites characters (Light Theme)
 ![Favourites-page-with-favourites-characters-llight](https://user-images.githubusercontent.com/66960784/203382952-e51bd5ae-6042-4f3a-8065-c806dd3d3443.png)
