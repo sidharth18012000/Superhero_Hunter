@@ -25,7 +25,7 @@
 ![Favourites-page-with-favourites-characters-llight](./images/favpg-favcharac.-l.t.png)
 
 ## Favourites page with favourites characters (Dark Theme)
-![Favourites-page-with-favourites-characters-dark](https://user-images.githubusercontent.com/66960784/203382969-a8868cec-7e3f-4f65-ac42-e8bf774bb61c.png)
+![Favourites-page-with-favourites-characters-dark](./images/favpg-favcharac.-d.t.png)
 
 ## More Info (Light Theme)
 ![more-info-page-light](https://user-images.githubusercontent.com/66960784/203383576-93d26828-ec05-46c1-b6e7-1032a2c32b28.png)
