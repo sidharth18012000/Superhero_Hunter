@@ -22,7 +22,7 @@
 ![Home-page-with-searched-items-dark](./images/homepage-searcheditems-d.t.png)
 
 ## Favourites page with favourites characters (Light Theme)
-![Favourites-page-with-favourites-characters-llight](https://user-images.githubusercontent.com/66960784/203382952-e51bd5ae-6042-4f3a-8065-c806dd3d3443.png)
+![Favourites-page-with-favourites-characters-llight](./images/favpg-favcharac.-l.t.png)
 
 ## Favourites page with favourites characters (Dark Theme)
 ![Favourites-page-with-favourites-characters-dark](https://user-images.githubusercontent.com/66960784/203382969-a8868cec-7e3f-4f65-ac42-e8bf774bb61c.png)
