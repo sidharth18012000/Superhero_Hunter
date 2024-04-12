@@ -4,11 +4,10 @@
 [superhero-hunter](https://sidharth18012000.github.io/Superhero_Hunter/)
 
 ## Home Page (Light Theme)
-![home-page-light](./images/homepage.png)
+![home-page-light](./images/homepage-light.png)
 
 ## Home Page (Dark Theme)
-![home-page-dark](https://user-images.githubusercontent.com/66960784/203381701-ba5cc4ff-cb3e-4f26-a627-fdf9d5d72d4f.png)
-
+![home-page-dark](./images/homepage-dark.png.png)
 
 ## Empty favourites page (Light Theme)
 ![Empty-favourites-page-light](https://user-images.githubusercontent.com/66960784/203382730-c6c4e5f6-33cf-4013-b52b-e8c3d8c1ae43.png)
